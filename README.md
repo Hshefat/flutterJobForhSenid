@@ -1,6 +1,6 @@
 # job_for_hsenid
 
-A new Flutter project.
+This is the my first Flutter project.
 
 ## Getting Started
 

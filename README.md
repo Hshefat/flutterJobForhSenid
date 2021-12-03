@@ -1,6 +1,6 @@
 # The job_for_hsenid
 
-This is the my first Flutter project.
+This is the flutter app fontend design Job For hSenid Mobile Solutions
 
 ## Getting Started
 
